@@ -12,7 +12,7 @@ tags:
   # - 被夹
 ---
 
-> 除了基本的翻译，本文章还给一些关键字加了链接，[原文地址](https://www.patterns.dev/posts/rendering-introduction/)
+> 除了基本的翻译，本文章还给一些关键字加了链接，[原文地址](https://www.morling.dev/blog/the-code-review-pyramid/)
 
 当谈到代码审查时， 一个普遍的现象是围绕代码格式和样式等方面进行了冗长的讨论， 而重要的方面（代码更改是否完成了它应该做的事情，它是否具有性能，它是否向后兼容现有的客户，以及许多其他方面）往往得到较少的关注，为了提高对该问题的认识并就需要关注的方面提供一些指导
 
@@ -65,4 +65,3 @@ tags:
 - 面向用户的部分（API 类、配置、指标、日志格式等）是否没有重大更改
 - 新的 API 通常有用且没有过于具体吗
 
-## [原文地址](https://www.morling.dev/blog/the-code-review-pyramid/)
