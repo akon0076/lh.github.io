@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Code Review 金字塔（译）"
+title:      "CodeReview Pyramid（译）"
 subtitle:   "CodeReview还在纠结代码风格、样式问题吗，来看看大佬是如何做Code Review 的吧"
 date:       2023-01-01 23:00:00
 author:     "LH"
